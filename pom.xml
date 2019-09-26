@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 
 	<properties>
-		<geode_version>9.5.0</geode_version>
+		<geode_version>9.6.0</geode_version>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
