@@ -12,7 +12,7 @@ Step 2: Deploy the jar on to Cloud Cache cluster using GFSH
 Note: first you have to connect to the cluster where jar needs to be deployed
 
 ```
-deploy --jar=geode-function-partitioned-region-clear-1.0.0.jar
+deploy --jar=target/geode-function-partitioned-region-clear-1.0.0.jar
 ```
 
 Step 3: Delete the data in a region using following command
